@@ -15,3 +15,5 @@ To Create a simple recommendation system that suggests items to
 users based on their preferences. You can use techniques like
 collaborative filtering or content-based filtering to recommend
 movies, books, or products to users.
+
+<img width="716" height="586" alt="Image" src="https://github.com/user-attachments/assets/e34a8976-cfb7-459f-a869-842fc545bd16" />
